@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/asimbutt/404challenge.git">
+    <a href="https://github.com/asimbutt/404challenge">
       Solution
     </a>
     <span> | </span>
